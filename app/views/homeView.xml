@@ -1,0 +1,5 @@
+<Alloy>
+	<Tab id="homeTab" icon="/images/btn_home_normal.png">
+		<Window></Window>
+	</Tab>
+</Alloy>

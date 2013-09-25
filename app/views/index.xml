@@ -1,0 +1,12 @@
+<Alloy>
+	<TabGroup class="container">
+	    <Require src="homeView"></Require>
+	    <Require src="favView"></Require>
+	    <Require src="searchView"></Require>
+	    <Require src="listView"></Require>
+	    <Require src="settingsView"></Require>
+    </TabGroup>
+	<!-- <Window class="container">
+		<Require src="tabsBar"></Require>
+	</Window> -->
+</Alloy>

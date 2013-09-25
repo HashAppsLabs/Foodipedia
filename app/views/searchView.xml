@@ -1,0 +1,5 @@
+<Alloy>
+	<Tab id="searchTab" icon="/images/btn_search_normal.png">
+		<Window></Window>
+	</Tab>
+</Alloy>

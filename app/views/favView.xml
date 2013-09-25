@@ -1,0 +1,5 @@
+<Alloy>
+	<Tab id="favTab" icon="/images/btn_fav_normal.png">
+		<Window></Window>
+	</Tab>
+</Alloy>

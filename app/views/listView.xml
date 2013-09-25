@@ -1,0 +1,5 @@
+<Alloy>
+	<Tab id="listTab" icon="/images/btn_list_normal.png">
+		<Window></Window>
+	</Tab>
+</Alloy>

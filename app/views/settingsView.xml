@@ -1,0 +1,5 @@
+<Alloy>
+	<Tab id="settingsTab" icon="/images/btn_setting_normal.png">
+		<Window></Window>
+	</Tab>
+</Alloy>
